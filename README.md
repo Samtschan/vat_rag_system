@@ -1,4 +1,5 @@
- VAT Compliance Retrieval-Augmented Generation (RAG) System
+
+# VAT Compliance Retrieval-Augmented Generation (RAG) System
 
 ## Overview
 This project is a VAT Compliance Retrieval-Augmented Generation (RAG) system designed to predict VAT rates and Chart of Account categories for invoices based on HMRC VAT legislation. The system retrieves relevant legislation, makes predictions using an AI model, and evaluates accuracy using ROUGE-1 scores.
@@ -46,10 +47,11 @@ This project is a VAT Compliance Retrieval-Augmented Generation (RAG) system des
    - If using PostgreSQL, load the `vat_legislation` table into your database and update the data source in `vat_rag.py`.
 
 5. **Start the FastAPI Server**:
-   ```bash
-   uvicorn main:app --reload
-   ```
-   Access the API at [http://127.0.0.1:8000](http://127.0.0.1:8000).
+   - Run the server using `main.py`:
+     ```bash
+     python main.py
+     ```
+   - Access the API at [http://127.0.0.1:8000](http://127.0.0.1:8000).
 
 ## Usage
 
@@ -66,6 +68,13 @@ This project is a VAT Compliance Retrieval-Augmented Generation (RAG) system des
 2. **Evaluate Predictions**:
    - Use the `/evaluate` endpoint to compare predictions against known values.
 
+### Testing a Single Prediction
+To test the prediction endpoint with a sample invoice, use `single_example_test.py`:
+```bash
+python single_example_test.py
+```
+This script sends a sample invoice to the `/predict` endpoint and prints the prediction results.
+
 ### Testing the System
 1. **Generate Test Dataset**:
    - Run `Test Dataset Generator.py` to create sample invoices with VAT rates and categories, generating `test_dataset.csv` for use in evaluation.
@@ -80,6 +89,8 @@ This project is a VAT Compliance Retrieval-Augmented Generation (RAG) system des
 - `vat_rag.py`: VAT RAG system for document retrieval and query.
 - `gl_predictor.py`: General Ledger Code Predictor.
 - `api.py`: FastAPI server providing prediction and evaluation endpoints.
+- `main.py`: Starts the FastAPI server.
+- `single_example_test.py`: Sends a single test prediction request to the `/predict` endpoint.
 - `Test Dataset Generator.py`: Script to create test dataset.
 - `Test Evaluation Script.py`: Evaluates model predictions.
 - `requirements.txt`: Lists required Python packages.
@@ -90,3 +101,4 @@ Feel free to open issues or submit pull requests for improvements.
 ## License
 This project is licensed under the MIT License.
 
+---
