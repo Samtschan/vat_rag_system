@@ -101,4 +101,8 @@ Feel free to open issues or submit pull requests for improvements.
 ## License
 This project is licensed under the MIT License.
 
+## Demo Video
+The demo video is available in the repository: [demo_video.zip](demo_video.zip)
+
+
 ---
