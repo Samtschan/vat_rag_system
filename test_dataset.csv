@@ -1,0 +1,321 @@
+invoice_text,vat_rate,category
+"VAT INVOICE
+VAT Registration Number: GB123456789
+Invoice Reference: TEST-Com-20%
+
+DESCRIPTION:
+Professional services related to Computer Equipment
+Standard rated supply under UK VAT regulations
+standard rate professional services consulting
+
+Amount (excl. VAT): £1000.00
+VAT Treatment: 20% (VAT on Expenses)
+VAT Amount: £200.00
+Total Amount: £1200.00
+
+Payment Terms: 30 days
+VAT Information: Standard rated supply under UK VAT regulations",20% (VAT on Expenses),Computer Equipment
+"VAT INVOICE
+VAT Registration Number: GB123456789
+Invoice Reference: TEST-Pro-20%
+
+DESCRIPTION:
+Professional services related to Professional Services
+Standard rated supply under UK VAT regulations
+standard rate professional services consulting
+
+Amount (excl. VAT): £1000.00
+VAT Treatment: 20% (VAT on Expenses)
+VAT Amount: £200.00
+Total Amount: £1200.00
+
+Payment Terms: 30 days
+VAT Information: Standard rated supply under UK VAT regulations",20% (VAT on Expenses),Professional Services
+"VAT INVOICE
+VAT Registration Number: GB123456789
+Invoice Reference: TEST-Cos-20%
+
+DESCRIPTION:
+Professional services related to Cost of Goods Sold
+Standard rated supply under UK VAT regulations
+standard rate professional services consulting
+
+Amount (excl. VAT): £1000.00
+VAT Treatment: 20% (VAT on Expenses)
+VAT Amount: £200.00
+Total Amount: £1200.00
+
+Payment Terms: 30 days
+VAT Information: Standard rated supply under UK VAT regulations",20% (VAT on Expenses),Cost of Goods Sold
+"VAT INVOICE
+VAT Registration Number: GB123456789
+Invoice Reference: TEST-Sta-20%
+
+DESCRIPTION:
+Professional services related to Staff Training
+Standard rated supply under UK VAT regulations
+standard rate professional services consulting
+
+Amount (excl. VAT): £1000.00
+VAT Treatment: 20% (VAT on Expenses)
+VAT Amount: £200.00
+Total Amount: £1200.00
+
+Payment Terms: 30 days
+VAT Information: Standard rated supply under UK VAT regulations",20% (VAT on Expenses),Staff Training
+"VAT INVOICE
+VAT Registration Number: GB123456789
+Invoice Reference: TEST-Mot-20%
+
+DESCRIPTION:
+Professional services related to Motor Vehicle Expenses
+Standard rated supply under UK VAT regulations
+standard rate professional services consulting
+
+Amount (excl. VAT): £1000.00
+VAT Treatment: 20% (VAT on Expenses)
+VAT Amount: £200.00
+Total Amount: £1200.00
+
+Payment Terms: 30 days
+VAT Information: Standard rated supply under UK VAT regulations",20% (VAT on Expenses),Motor Vehicle Expenses
+"VAT INVOICE
+VAT Registration Number: GB123456789
+Invoice Reference: TEST-Com-No 
+
+DESCRIPTION:
+Professional services related to Computer Equipment
+VAT exempt supply under UK VAT regulations
+exempt outside scope no vat charged
+
+Amount (excl. VAT): £1000.00
+VAT Treatment: No VAT
+VAT Amount: £0.00
+Total Amount: £1000.00
+
+Payment Terms: 30 days
+VAT Information: VAT exempt supply under UK VAT regulations",No VAT,Computer Equipment
+"VAT INVOICE
+VAT Registration Number: GB123456789
+Invoice Reference: TEST-Pro-No 
+
+DESCRIPTION:
+Professional services related to Professional Services
+VAT exempt supply under UK VAT regulations
+exempt outside scope no vat charged
+
+Amount (excl. VAT): £1000.00
+VAT Treatment: No VAT
+VAT Amount: £0.00
+Total Amount: £1000.00
+
+Payment Terms: 30 days
+VAT Information: VAT exempt supply under UK VAT regulations",No VAT,Professional Services
+"VAT INVOICE
+VAT Registration Number: GB123456789
+Invoice Reference: TEST-Cos-No 
+
+DESCRIPTION:
+Professional services related to Cost of Goods Sold
+VAT exempt supply under UK VAT regulations
+exempt outside scope no vat charged
+
+Amount (excl. VAT): £1000.00
+VAT Treatment: No VAT
+VAT Amount: £0.00
+Total Amount: £1000.00
+
+Payment Terms: 30 days
+VAT Information: VAT exempt supply under UK VAT regulations",No VAT,Cost of Goods Sold
+"VAT INVOICE
+VAT Registration Number: GB123456789
+Invoice Reference: TEST-Sta-No 
+
+DESCRIPTION:
+Professional services related to Staff Training
+VAT exempt supply under UK VAT regulations
+exempt outside scope no vat charged
+
+Amount (excl. VAT): £1000.00
+VAT Treatment: No VAT
+VAT Amount: £0.00
+Total Amount: £1000.00
+
+Payment Terms: 30 days
+VAT Information: VAT exempt supply under UK VAT regulations",No VAT,Staff Training
+"VAT INVOICE
+VAT Registration Number: GB123456789
+Invoice Reference: TEST-Mot-No 
+
+DESCRIPTION:
+Professional services related to Motor Vehicle Expenses
+VAT exempt supply under UK VAT regulations
+exempt outside scope no vat charged
+
+Amount (excl. VAT): £1000.00
+VAT Treatment: No VAT
+VAT Amount: £0.00
+Total Amount: £1000.00
+
+Payment Terms: 30 days
+VAT Information: VAT exempt supply under UK VAT regulations",No VAT,Motor Vehicle Expenses
+"VAT INVOICE
+VAT Registration Number: GB123456789
+Invoice Reference: TEST-Com-Zer
+
+DESCRIPTION:
+Professional services related to Computer Equipment
+Zero-rated supply under UK VAT regulations
+zero rated 0% export
+
+Amount (excl. VAT): £1000.00
+VAT Treatment: Zero Rated Expenses
+VAT Amount: £0.00
+Total Amount: £1000.00
+
+Payment Terms: 30 days
+VAT Information: Zero-rated supply under UK VAT regulations",Zero Rated Expenses,Computer Equipment
+"VAT INVOICE
+VAT Registration Number: GB123456789
+Invoice Reference: TEST-Pro-Zer
+
+DESCRIPTION:
+Professional services related to Professional Services
+Zero-rated supply under UK VAT regulations
+zero rated 0% export
+
+Amount (excl. VAT): £1000.00
+VAT Treatment: Zero Rated Expenses
+VAT Amount: £0.00
+Total Amount: £1000.00
+
+Payment Terms: 30 days
+VAT Information: Zero-rated supply under UK VAT regulations",Zero Rated Expenses,Professional Services
+"VAT INVOICE
+VAT Registration Number: GB123456789
+Invoice Reference: TEST-Cos-Zer
+
+DESCRIPTION:
+Professional services related to Cost of Goods Sold
+Zero-rated supply under UK VAT regulations
+zero rated 0% export
+
+Amount (excl. VAT): £1000.00
+VAT Treatment: Zero Rated Expenses
+VAT Amount: £0.00
+Total Amount: £1000.00
+
+Payment Terms: 30 days
+VAT Information: Zero-rated supply under UK VAT regulations",Zero Rated Expenses,Cost of Goods Sold
+"VAT INVOICE
+VAT Registration Number: GB123456789
+Invoice Reference: TEST-Sta-Zer
+
+DESCRIPTION:
+Professional services related to Staff Training
+Zero-rated supply under UK VAT regulations
+zero rated 0% export
+
+Amount (excl. VAT): £1000.00
+VAT Treatment: Zero Rated Expenses
+VAT Amount: £0.00
+Total Amount: £1000.00
+
+Payment Terms: 30 days
+VAT Information: Zero-rated supply under UK VAT regulations",Zero Rated Expenses,Staff Training
+"VAT INVOICE
+VAT Registration Number: GB123456789
+Invoice Reference: TEST-Mot-Zer
+
+DESCRIPTION:
+Professional services related to Motor Vehicle Expenses
+Zero-rated supply under UK VAT regulations
+zero rated 0% export
+
+Amount (excl. VAT): £1000.00
+VAT Treatment: Zero Rated Expenses
+VAT Amount: £0.00
+Total Amount: £1000.00
+
+Payment Terms: 30 days
+VAT Information: Zero-rated supply under UK VAT regulations",Zero Rated Expenses,Motor Vehicle Expenses
+"VAT INVOICE
+VAT Registration Number: GB123456789
+Invoice Reference: TEST-Com-Rev
+
+DESCRIPTION:
+Professional services related to Computer Equipment
+Subject to VAT reverse charge
+reverse charge construction services
+
+Amount (excl. VAT): £1000.00
+VAT Treatment: Reverse Charge Expenses (20%)
+VAT Amount: £200.00
+Total Amount: £1200.00
+
+Payment Terms: 30 days
+VAT Information: Subject to VAT reverse charge",Reverse Charge Expenses (20%),Computer Equipment
+"VAT INVOICE
+VAT Registration Number: GB123456789
+Invoice Reference: TEST-Pro-Rev
+
+DESCRIPTION:
+Professional services related to Professional Services
+Subject to VAT reverse charge
+reverse charge construction services
+
+Amount (excl. VAT): £1000.00
+VAT Treatment: Reverse Charge Expenses (20%)
+VAT Amount: £200.00
+Total Amount: £1200.00
+
+Payment Terms: 30 days
+VAT Information: Subject to VAT reverse charge",Reverse Charge Expenses (20%),Professional Services
+"VAT INVOICE
+VAT Registration Number: GB123456789
+Invoice Reference: TEST-Cos-Rev
+
+DESCRIPTION:
+Professional services related to Cost of Goods Sold
+Subject to VAT reverse charge
+reverse charge construction services
+
+Amount (excl. VAT): £1000.00
+VAT Treatment: Reverse Charge Expenses (20%)
+VAT Amount: £200.00
+Total Amount: £1200.00
+
+Payment Terms: 30 days
+VAT Information: Subject to VAT reverse charge",Reverse Charge Expenses (20%),Cost of Goods Sold
+"VAT INVOICE
+VAT Registration Number: GB123456789
+Invoice Reference: TEST-Sta-Rev
+
+DESCRIPTION:
+Professional services related to Staff Training
+Subject to VAT reverse charge
+reverse charge construction services
+
+Amount (excl. VAT): £1000.00
+VAT Treatment: Reverse Charge Expenses (20%)
+VAT Amount: £200.00
+Total Amount: £1200.00
+
+Payment Terms: 30 days
+VAT Information: Subject to VAT reverse charge",Reverse Charge Expenses (20%),Staff Training
+"VAT INVOICE
+VAT Registration Number: GB123456789
+Invoice Reference: TEST-Mot-Rev
+
+DESCRIPTION:
+Professional services related to Motor Vehicle Expenses
+Subject to VAT reverse charge
+reverse charge construction services
+
+Amount (excl. VAT): £1000.00
+VAT Treatment: Reverse Charge Expenses (20%)
+VAT Amount: £200.00
+Total Amount: £1200.00
+
+Payment Terms: 30 days
+VAT Information: Subject to VAT reverse charge",Reverse Charge Expenses (20%),Motor Vehicle Expenses
